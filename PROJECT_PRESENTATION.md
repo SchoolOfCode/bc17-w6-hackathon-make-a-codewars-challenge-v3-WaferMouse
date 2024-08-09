@@ -34,5 +34,5 @@ lwd563fdm
 - Install dependencies ✅
 - Write a barebones test to check the environment ✅
 - Write a test ✅
-- Write a basic solution (cheat by copying and pasting the expected output in)
+- Write a basic solution (cheat by copying and pasting the expected output in) ✅
 - Write a better solution that's more fun!
