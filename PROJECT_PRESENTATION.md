@@ -27,8 +27,6 @@ qw10934lm
 lwd563fdm
 ```
 
-
-
 ## Plan
 
 - Install dependencies ✅
@@ -37,3 +35,10 @@ lwd563fdm
 - write function skeleton ✅
 - Write a basic solution (cheat by copying and pasting the expected output in) ✅
 - Write a better solution that's more fun! ✅
+
+## Submission
+
+Room: 13  
+Name: Jocelyne Strogen-Jones  
+Link: [Jocelyne's Code Kata](https://github.com/SchoolOfCode/bc17-w6-hackathon-make-a-codewars-challenge-v3-WaferMouse)  
+Overview: Find the Christmas tree in a pile of numbers and letters  
