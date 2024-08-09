@@ -47,3 +47,4 @@ Overview: Find the Christmas tree in a pile of numbers and letters
 - Had to figure out how to include line breaks in the string 🤔
 - Initially forgot to handle the line breaks in my solution 😂
 - Added a vscode extension to enable overwrite typing to make preparing the strings easier
+- Earlier feedback may have been better
