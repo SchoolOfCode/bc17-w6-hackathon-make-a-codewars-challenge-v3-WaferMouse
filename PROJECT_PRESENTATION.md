@@ -5,14 +5,14 @@ Put your plan, story, and any supporting material here, you could use the help o
 Christmas will be here before you know it, but you don't have a Christmas tree! Fortunately there's one hidden in this function. Unfortunately it got turned into numbers and buried in letters. It should look like this:
 
 ```
-    #
-   ###
-  #####
- #######
+    #    
+   ###   
+  #####  
+ ####### 
 #########
-    #
-  #####
-   ###
+    #    
+  #####  
+   ###   
 ```
 The test will pass the following text to the function, try to pull the tree out of it, and make sure that it's made out of `#`s.
 
@@ -31,8 +31,8 @@ lwd563fdm
 
 ## Plan
 
-- Install dependencies
-- Write a barebones test to check the environment
-- Write a test
+- Install dependencies ✅
+- Write a barebones test to check the environment ✅
+- Write a test ✅
 - Write a basic solution (cheat by copying and pasting the expected output in)
 - Write a better solution that's more fun!
